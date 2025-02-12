@@ -1,6 +1,9 @@
 // Student Name: Anar Samadzade.
 // Student ID: 101391879
 
+// Commit 1: Testing commits
+
+
 import SwiftUI
 
 struct ContentView: View {
