@@ -1,4 +1,4 @@
-// Student Name: Anar Samadzade
+// Student Name: Anar Samadzade.
 // Student ID: 101391879
 
 import SwiftUI
